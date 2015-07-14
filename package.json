@@ -1,0 +1,23 @@
+{
+  "name": "kung-fu-chat",
+  "version": "1.0.0",
+  "description": "A simple chat implementation using React and Node.js backend (isomorphic approach).",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkency/kung-fu-chat.git"
+  },
+  "keywords": [
+    "react",
+    "isomorphic"
+  ],
+  "author": "Arkency",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkency/kung-fu-chat/issues"
+  },
+  "homepage": "https://github.com/arkency/kung-fu-chat#readme"
+}
